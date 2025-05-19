@@ -84,7 +84,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Engineer at ABC Corp (2023 - Present){" "}
+                    FullStack Developer (2023 - Present){" "}
                   </h4>
                   <p>
                     Freelance FullStack Developer
